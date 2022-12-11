@@ -1,1 +1,1 @@
-Telas para o profissional selecionar o Agendamento de seus clientes.
+Tela para o profissional selecionar o Agendamento de seus clientes.
